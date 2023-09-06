@@ -1,2 +1,3 @@
-# scala-3-intro
-Una breve introducción a Scala 3
+# Scala 3, una breve Introducción
+
+Material didáctico para introducir al lenguaje de programación Scala.
